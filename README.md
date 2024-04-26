@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository: 
     ```sh
-    git clone https://github.com/Abdullah0Dev/dora_full-stack.git
+    git clone https://github.com/Abdullah0Dev/dora_full_stack.git
     ```
 2. Install NPM packages for both client and server:
     ```sh
@@ -75,7 +75,7 @@ To get a local copy up and running follow these simple steps:
 
 Abdullah0Dev - [abdullahdev001@gmail.com] - [Abdullah0Dev]
 
-Project Link: [Dora](https://github.com/Abdullah0Dev/dora_full-stack)
+Project Link: [Dora](https://github.com/Abdullah0Dev/dora_full_stack)
 
 ---
  
