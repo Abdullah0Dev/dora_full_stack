@@ -1,6 +1,10 @@
 # Dora - Full Stack Expo Application
 
-<a href="https://www.youtube.com/@AbdullahDev_YT" target="_blank"><img src="https://i.ibb.co/sJY8XmX/Your-paragraph-text.png" alt="App Screens" ></a>
+  <br />
+    <a href="https://www.linkedin.com/in/abdullah-future/" target="_blank">
+      <img src="https://i.ibb.co/sJY8XmX/Your-paragraph-text.png" alt="Project Banner">
+    </a>
+  <br />
 
 ## Description
 
