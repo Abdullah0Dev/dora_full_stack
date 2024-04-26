@@ -2,7 +2,7 @@
 
   <br />
     <a href="https://www.linkedin.com/in/abdullah-future/" target="_blank">
-      <img  src="https://i.ibb.co/sJY8XmX/Your-paragraph-text.png" alt="Project Banner">
+      <img  src="https://i.postimg.cc/k5QwYS7L/dora.png" alt="Project Banner">
     </a>
   <br />
 
