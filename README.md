@@ -1,6 +1,6 @@
 # Dora - Full Stack Expo Application
 
-![https://github.com/Abdullah0Dev/dora_full_stack](https://i.ibb.co/sJY8XmX/Your-paragraph-text.png)
+<a href="https://www.youtube.com/@AbdullahDev_YT" target="_blank"><img src="https://i.ibb.co/sJY8XmX/Your-paragraph-text.png" alt="App Screens" width="800"></a>
 
 ## Description
 
