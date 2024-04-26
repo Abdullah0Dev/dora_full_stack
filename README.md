@@ -1,6 +1,6 @@
 # Dora - Full Stack Expo Application
 
-![App Screenshot](https://i.ibb.co/sJY8XmX/Your-paragraph-text.png)
+![App Screens](https://i.ibb.co/sJY8XmX/Your-paragraph-text.png)
 
 ## Description
 
